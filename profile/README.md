@@ -13,6 +13,15 @@
   <a href="https://github.com/VryptLab">
     <img src="https://img.shields.io/github/stars/VryptLab?style=for-the-badge&logo=github" alt="GitHub Org Stars">
   </a>
+  <a href="https://github.com/VryptLab">
+    <img src="https://img.shields.io/github/followers/VryptLab?style=for-the-badge&logo=github" alt="Followers">
+  </a>
+  <a href="https://github.com/VryptLab">
+    <img src="https://img.shields.io/github/issues/VryptLab/.github?style=for-the-badge&logo=github" alt="Issues">
+  </a>
+  <a href="https://github.com/VryptLab">
+    <img src="https://img.shields.io/github/commit-activity/m/VryptLab/.github?style=for-the-badge&logo=git&logoColor=white" alt="Commit Activity">
+  </a>
 </p>
 
 ---
@@ -53,19 +62,13 @@ To become a leading force in creating impactful open-source software that drives
 
 <p align="center">
   <a href="https://github.com/VryptLab">
-    <img src="https://github-readme-stats.vercel.app/api?username=VryptLab&show_icons=true&theme=tokyonight&hide_border=true" alt="Vrypt Lab GitHub Stats">
+    <img src="https://img.shields.io/github/repo-count/VryptLab?style=for-the-badge&logo=github" alt="Repositories">
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/VryptLab">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VryptLab&theme=tokyonight&hide_border=true" alt="Vrypt Lab Contribution Streak">
+    <img src="https://img.shields.io/github/last-commit/VryptLab/.github?style=for-the-badge&logo=git&logoColor=white" alt="Last Commit">
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/VryptLab">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VryptLab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+    <img src="https://img.shields.io/github/contributors/VryptLab/.github?style=for-the-badge&logo=github" alt="Contributors">
   </a>
 </p>
 
