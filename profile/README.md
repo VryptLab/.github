@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://opensource.guide/">
-    <img src="https://img.shields.io/badge/Open%20Source-Active-brightgreen?style=flat-square" alt="Open Source">
+    <img src="https://img.shields.io/badge/Open%20Source-Active-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source">
   </a>
   <a href="CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contributions-Welcome-blue?style=flat-square" alt="Contributions Welcome">
+    <img src="https://img.shields.io/badge/Contributions-Welcome-blue?style=for-the-badge&logo=github" alt="Contributions Welcome">
   </a>
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/VryptLab/.github?style=flat-square" alt="License">
+    <img src="https://img.shields.io/github/license/VryptLab/.github?style=for-the-badge&logo=creativecommons&logoColor=white" alt="License">
   </a>
   <a href="https://github.com/VryptLab">
-    <img src="https://img.shields.io/github/stars/VryptLab?style=social" alt="GitHub Org Stars">
+    <img src="https://img.shields.io/github/stars/VryptLab?style=for-the-badge&logo=github" alt="GitHub Org Stars">
   </a>
 </p>
 
@@ -19,23 +19,23 @@
 
 ## 📖 About
 
-**Vrypt Lab** is an open-source focused technology organization dedicated to building meaningful tools and projects that empower developers and organizations worldwide.  
-We prioritize **clean, scalable, and sustainable solutions** designed for real-world impact.
+**Vrypt Lab** is an open-source technology organization dedicated to building meaningful tools and projects that empower developers and communities worldwide.  
+We focus on **clean, scalable, and sustainable solutions** with real-world impact.
 
 ---
 
 ## 🌍 Vision
 
-To lead in creating impactful open-source software that drives innovation and collaboration across the global tech community.
+To become a leading force in creating impactful open-source software that drives innovation and collaboration across the global tech ecosystem.
 
 ---
 
 ## 🎯 Mission
 
-- Deliver high-quality open-source tools that solve practical challenges.  
-- Foster an inclusive and engaged contributor community.  
-- Uphold transparency, best practices, and sustainable development.  
-- Provide comprehensive documentation and support.  
+- Build high-quality open-source tools to solve practical challenges.  
+- Cultivate an inclusive and collaborative contributor community.  
+- Promote transparency, best practices, and sustainable development.  
+- Deliver clear documentation and developer-friendly resources.  
 
 ---
 
@@ -43,9 +43,9 @@ To lead in creating impactful open-source software that drives innovation and co
 
 - Developer tools & libraries  
 - Scalable web and API infrastructure  
-- Data engineering and analytics  
-- Artificial intelligence and automation  
-- Civic tech and digital education  
+- Data engineering & analytics  
+- Artificial intelligence & automation  
+- Civic tech & digital education  
 
 ---
 
@@ -71,18 +71,18 @@ To lead in creating impactful open-source software that drives innovation and co
 
 ---
 
-## 🤝 Contribute
+## 🤝 Contributing
 
 We welcome contributions from developers, designers, and technologists of all backgrounds.  
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to get started.
+Check out our [CONTRIBUTING.md](CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to get started.
 
 ---
 
 ## 📬 Contact
 
-- Email: [contact@vryptlab.org](mailto:contact@vryptlab.org)  
-- GitHub: [github.com/VryptLab](https://github.com/VryptLab)  
+- 📧 Email: [contact@vryptlab.org](mailto:contact@vryptlab.org)  
+- 🌐 GitHub: [github.com/VryptLab](https://github.com/VryptLab)  
 
 ---
 
